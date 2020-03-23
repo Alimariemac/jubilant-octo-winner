@@ -60,7 +60,7 @@ export const CAMPSITES = [
             {
                 id: 1,
                 rating: 4, 
-                text: "The campground was beautiful, but the bugs could bite sometimes.",
+                text: "The campground wasn't beautiful, but the bugs could bite sometimes.",
                 author: "Brennen Ech",
                 date: "2017-06-17T03:33Z"
             },
